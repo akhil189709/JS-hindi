@@ -29,5 +29,35 @@ console.log(stringNumber);
 
 
 
+//************************Operations*******************************
+
+
+let value = 44;
+let negvalue = -value;
+console.log(negvalue);
+
+let str = "1";
+let ans = "1" + 44 + 33;
+let ans2 = 44 + 32 + "1";
+console.log(ans);
+console.log(ans2);
+console.log(typeof ans2);
+console.log(typeof ans);
+
+console.log(+true);
+console.log(+"");
+
+let gameCounter = 100;
+gameCounter++;
+console.log(gameCounter);
+
+
+
+
+
+
+
+
+
 
 
